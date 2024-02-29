@@ -1,0 +1,106 @@
+body {
+    display: flex;
+    background-color: #f0f2f5;
+    padding-top: 8%;
+}
+.container {
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    padding-top: 20px;
+    margin:auto ;
+    
+}
+
+.email {
+    font-family: arial;
+    font-size: 17px;
+    width: 360px;
+    height: 50px ;
+    display: inline-block;
+    margin-left: 5%;
+    margin-bottom: 20px;
+    padding: 10px;
+    /* color: gainsboro; */
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+}
+.password {
+    height: 50px;
+    font-family: inherit;
+    font-size: 17px;
+    width: 360px;
+    margin-left: 5%;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid gainsboro ;
+}
+.log {
+    font-family: arial;
+    width: 360px;
+    margin-left: 5%;
+    padding: 10px;
+    background-color: #0866ff;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.facebook{
+    padding-left: 290px;
+    font-weight: bold;
+    color: #0866ff;
+    font-size: 80px;
+    margin: 28px;
+    height: 106px;
+    line-height:2;
+}
+.pera {
+    font-family:   sans-serif ;
+    line-height: 28px;
+    font-size: 24px;
+    padding-left: 320px;
+    font-weight: 500;
+}
+.for {
+    margin-left: 135px;
+    line-height: 50px;
+    color: #0866ff ;
+    text-decoration: none;
+    font-family: arial;
+}
+.p {
+    color: gainsboro;
+    margin-left: 10px;
+}
+.account {
+    background-color: #42b72a;
+    font-size: 17px;
+    color: #fff;
+    font-family: arial;
+    font-weight: bold;
+    padding: 0 16px;
+    border: none;
+    line-height: 48px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 115px;
+}
+.create {
+    margin: 100px;
+    text-decoration: none;
+}
